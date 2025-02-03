@@ -30,7 +30,4 @@ O **Jogo Número Secreto** é um jogo onde o jogador deve adivinhar um número g
 
 ## Como Rodar o Projeto
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/repositorio.git
+[Clique aqui para jogar!](https://numero-secreto-topaz-omega.vercel.app/)
